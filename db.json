@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Ihzha",
+      "alamat": "Al Falah",
+      "umur": "23",
+      "nohp": "081231212123"
+    },
+    {
+      "id": 2,
+      "nama": "Nauval",
+      "alamat": "Al Alaq",
+      "umur": "22",
+      "nohp": "0812345678909"
+    },
+    {
+      "id": 3,
+      "nama": "Baihaqqi",
+      "alamat": "Al Ikhlas",
+      "umur": "20",
+      "nohp": "08907654311"
+    },
+    {
+      "id": 4,
+      "nama": "Udin",
+      "alamat": "Al Nass",
+      "umur": "19",
+      "nohp": "088907654321"
+    },
+    {
+      "id": 5,
+      "nama": "Upin",
+      "alamat": "Al Hus",
+      "umur": "25",
+      "nohp": "08765432109"
+    }
+  ]
+}
